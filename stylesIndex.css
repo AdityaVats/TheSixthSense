@@ -2,7 +2,7 @@ body{
 	
 	color: wheat;
 
-	background: url(https://allfreedesigns.com/wp-content/uploads/2015/06/black-patterns-4.jpg);
+	background: url(static/images/background.jpg);
 }
 .hd{
 
@@ -25,7 +25,7 @@ body{
 }
 .card {
 	color: black;
-	background: url(http://treasuresofinnocence.org/wp-content/uploads/2015/08/4.New-style-light-blue-color-Background-image-www.graphiclay.blogspot.com_.jpg);
+	background: url(static/images/card.jpg);
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
